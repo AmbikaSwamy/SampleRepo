@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 3820-C38E
+
+ Directory of C:\Users\aasvi\Desktop\MyFirstSampleRepository
+
+01/24/2023  07:02 PM    <DIR>          .
+01/24/2023  06:57 PM    <DIR>          ..
+01/24/2023  07:02 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  406,321,946,624 bytes free
